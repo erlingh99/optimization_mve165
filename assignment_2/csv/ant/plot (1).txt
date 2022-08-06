@@ -1,0 +1,7 @@
+x = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+xlabel('r')
+y1 = [615, 615, 635, 635, 635, 645, 645, 644, 660, 670, 670], label='Optimal objective value [euro]'
+y2 = [10, 11, 11, 11, 11, 11, 11, 21, 11, 11, 11], label='Maintenance occasions'
+y3 = [29, 27, 29, 29, 29, 30, 30, 62, 30, 31, 31], label='Replaced components'
+title('Remaining life (r) requirements')
+legend()
